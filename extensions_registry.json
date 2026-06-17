@@ -1,0 +1,16 @@
+{
+  "widgets": [
+    {
+      "type": "gs_tomshaddock_community_widget",
+      "title": "Community Widget",
+      "description": "Custom community widget",
+      "category": "custom",
+      "source": {
+        "path": ".",
+        "entry": "index.html"
+      }
+    }
+  ],
+  "scripts": [],
+  "stylesheets": []
+}
